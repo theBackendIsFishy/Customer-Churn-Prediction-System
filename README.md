@@ -78,7 +78,8 @@ The app provides:
 
 ```
 git clone https://github.com/theBackendIsFishy/Customer-Churn-Prediction-System.git
-cd churn-prediction
+cd Customer-Churn-Prediction-System
+
 ```
 
 ### 2. Install Dependencies
