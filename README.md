@@ -104,7 +104,7 @@ streamlit run app.py
 | 60     | Yes             | Yes          | Two year       | 5000          |
 | 60     | Yes             | Yes          | Month-to-month | 5000          |
 | 60     | No              | Yes          | One year       | 5000          |
-| 60     | No              | Yes          | Two year       | 5000          |
+| 5 0     | No              | No          | Month-to-month | 4000          |
 
 ---
 
